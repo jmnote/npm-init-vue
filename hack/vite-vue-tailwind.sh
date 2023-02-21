@@ -1,8 +1,10 @@
 #!/bin/bash
 cd $(dirname $0)/../
-PROJECT=vite-vue-tailwind
 
+PROJECT=vite-vue-tailwind
 rm -rf $PROJECT
+
+# https://tailwindcss.com/docs/guides/vite#vue
 npm create vite@latest $PROJECT -- --template vue
 cd $PROJECT
 
