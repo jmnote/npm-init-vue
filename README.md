@@ -1,6 +1,6 @@
 # react & vue examples
 
-| # | project             |                                                |
+| # | project             | description                                    |
 | - | ------------------- | ---------------------------------------------- |
 | 1 | laravel-mix-app     |                                                |
 | 2 | react-router        | https://reactrouter.com/en/main/start/tutorial |
