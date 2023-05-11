@@ -20,8 +20,9 @@
 | vite-vue-ts            | `npm create vite@latest vite-vue-ts     -- --template vue-ts`
 | vite-vue               | `npm create vite@latest vite-vue        -- --template vue`
 | vite-vue-tailwind      |
-| vue-project-0000000    |
-| vue-project-1111111    |
+| vue-project-0000000    | npm create vue@3
+| vue-project-1111111    | npm create vue@3
+| vue-project-10111211   | npm create vue@3
 | webpack-demo           |
 | _create-react-app-ts   | `npx create-react-app {project} --template typescript` https://create-react-app.dev/
 | _create-react-app      | `npx create-react-app {project}` https://create-react-app.dev/
