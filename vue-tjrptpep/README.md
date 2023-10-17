@@ -1,4 +1,4 @@
-# vue_ts_jsx_router_pinia_vitest_playwright_eslint_prettier
+# vue-tjrptpep
 
 This template should help get you started developing with Vue 3 in Vite.
 
